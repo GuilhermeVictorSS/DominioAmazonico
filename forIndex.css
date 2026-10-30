@@ -150,12 +150,12 @@ a:active, a:visited, a:hover, a {
     display: flex;
     align-items: center;
     justify-content: center;
-    column-gap: 1%;
+    column-gap: 2%;
     padding: 1%;
 }
 #imgArea2{
-    width: 500px;
-    height: 300px;
+    width: 400px;
+    height: 250px;
     position: relative;
     overflow: hidden;
     object-fit: cover;
